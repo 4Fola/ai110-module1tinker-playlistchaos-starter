@@ -5,6 +5,23 @@ Your AI assistant tried to build a smart playlist generator. The app runs, but s
 This activity is your first chance to practice AI-assisted debugging on a codebase that is slightly messy, slightly mysterious, and intentionally imperfect.
 
 You do not need to understand everything at once. Approach the app as a curious investigator, work with an AI assistant to explain what you find, and make targeted improvements.
+# NB:
+### App Web Dashboard
+<img src="demos/Mod1_L1-Tinker.gif" alt="Playlist Chaos starter web UI">
+
+### `Few Errors Identified`  
+- Current Implemenantation Isues:
+- Logically wrong functions in e.g., search_songs, compute_playlist_stats etc.
+- Security / maintainability: unusual import deferment
+- No unit test(s)
+
+### `Recommendations`  
+- Reverse search conditions
+- Correct ratios computations
+- Copy lists
+- Consider adding unit tests
+
+# NB END:
 
 ---
 
@@ -112,5 +129,4 @@ If you finish early or want an extra challenge, try one of these:
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
 
-### App Web Dashboard
-<img src="demos/Mod1_L1-Tinker.gif" alt="Playlist Chaos starter web UI">
+
