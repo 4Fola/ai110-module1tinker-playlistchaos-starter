@@ -9,8 +9,7 @@ You do not need to understand everything at once. Approach the app as a curious 
 ### App Web Dashboard
 <img src="demos/Mod1_L1-Tinker.gif" alt="Playlist Chaos starter web UI">
 
-### `Few Errors Identified`  
-- Current Implemenantation Isues:
+### `Few Errors Identified in Current Implemenantation:`  
 - Logically wrong functions in e.g., search_songs, compute_playlist_stats etc.
 - Security / maintainability: unusual import deferment
 - No unit test(s)
