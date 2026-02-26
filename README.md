@@ -20,6 +20,14 @@ You do not need to understand everything at once. Approach the app as a curious 
 - Copy lists
 - Consider adding unit tests
 
+## Summary:
+
+- Core Concept Needed: knowledge on input normalization, deterministic classification rules etc. maybe useful to understand predictable application behavior.
+- Possible Learning Struggle: subtle logic bugs such as wrong denominators for averages, list alias during merge, empty inputs handling.
+- AI Help: AI can be helpful in locating concrete issues, impact explanation and targeted improvement suggestions.
+- AI Mislead: possible inference in design intentions in situations where behaviour might be legitimate choices.
+- Scholar Guide: suggest going through a single example song and show its normal form, classification decision and where it ends up. Consider an intentional failing unit test to capture the unexpected behaviour.
+
 # NB END:
 
 ---
